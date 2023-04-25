@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+lib/
+Scripts/
+pyvenv.cfg
+base_statics/global/image/bootstrap-icons/
+# django #
+*.log
+*.pot
+*.pyc
+__pycache__ 
